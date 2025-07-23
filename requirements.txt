@@ -1,6 +1,5 @@
 streamlit
 pandas
-plotly.express
+plotly
 json
-plotly.graph_objects
 geopandas
