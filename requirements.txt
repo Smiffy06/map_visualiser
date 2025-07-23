@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly.express
+json
+plotly.graph_objects
+geopandas
